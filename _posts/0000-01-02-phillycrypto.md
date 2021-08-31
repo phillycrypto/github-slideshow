@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+AD Navy cant wait to get out and code!! 
 Use the left arrow to go back!
